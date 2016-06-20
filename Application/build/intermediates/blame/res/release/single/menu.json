@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/flint/AndroidStudioProjects/BluetoothLeGatt/Application/build/intermediates/res/merged/release/menu/gatt_services.xml",
+        "source": "/Users/flint/AndroidStudioProjects/BluetoothLeGatt/Application/src/main/res/menu/gatt_services.xml"
+    },
+    {
+        "merged": "/Users/flint/AndroidStudioProjects/BluetoothLeGatt/Application/build/intermediates/res/merged/release/menu/main.xml",
+        "source": "/Users/flint/AndroidStudioProjects/BluetoothLeGatt/Application/src/main/res/menu/main.xml"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/flint/AndroidStudioProjects/BluetoothLeGatt/Application/build/intermediates/res/merged/release/layout/listitem_device.xml",
+        "source": "/Users/flint/AndroidStudioProjects/BluetoothLeGatt/Application/src/main/res/layout/listitem_device.xml"
+    },
+    {
+        "merged": "/Users/flint/AndroidStudioProjects/BluetoothLeGatt/Application/build/intermediates/res/merged/release/layout/gatt_services_characteristics.xml",
+        "source": "/Users/flint/AndroidStudioProjects/BluetoothLeGatt/Application/src/main/res/layout/gatt_services_characteristics.xml"
+    },
+    {
+        "merged": "/Users/flint/AndroidStudioProjects/BluetoothLeGatt/Application/build/intermediates/res/merged/release/layout/actionbar_indeterminate_progress.xml",
+        "source": "/Users/flint/AndroidStudioProjects/BluetoothLeGatt/Application/src/main/res/layout/actionbar_indeterminate_progress.xml"
+    }
+]
